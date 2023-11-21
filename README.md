@@ -9,5 +9,4 @@ In the case of Azure cloud, everything is constructed under Az subscriptions. [G
 
 ## kubectl plugins
 Instead of using k kill ns nsname, this repo will walkthrough the process of creating kubectl plugin which interms using additional args and take care as a single command.
-
 You may ask why don't we go with alias?. It can be, but here the intention is to explore kubectl plugins using Golang and curiosity to extend further is my big idea.s
