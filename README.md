@@ -1,4 +1,4 @@
-# Migrated to https://github.com/rakzroamerz/kubectl-plugin-with-go
+# Migrated to [https://github.com/rakzroamerz/kubectl-plugin-with-go](https://github.com/rakzroamer/kubectl-plugin-with-go)
 # kubectl-plugin-with-go
 Trying to create a kubectl plugin using Go and Client-go to extend kubectl via plugins to achieve ns kill or terminate
 
